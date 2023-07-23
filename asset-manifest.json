@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/texthelper/static/css/main.98ec47ca.css",
+    "main.js": "/texthelper/static/js/main.3d4e9ca1.js",
+    "index.html": "/texthelper/index.html",
+    "main.98ec47ca.css.map": "/texthelper/static/css/main.98ec47ca.css.map",
+    "main.3d4e9ca1.js.map": "/texthelper/static/js/main.3d4e9ca1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ec47ca.css",
+    "static/js/main.3d4e9ca1.js"
+  ]
+}
